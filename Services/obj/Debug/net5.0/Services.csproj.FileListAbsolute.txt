@@ -1,0 +1,12 @@
+A:\Arman Folder\C#\Dapper-API\Services\bin\Debug\net5.0\Services.deps.json
+A:\Arman Folder\C#\Dapper-API\Services\bin\Debug\net5.0\Services.dll
+A:\Arman Folder\C#\Dapper-API\Services\bin\Debug\net5.0\ref\Services.dll
+A:\Arman Folder\C#\Dapper-API\Services\bin\Debug\net5.0\Services.pdb
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.dll
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\ref\Services.dll
+A:\Arman Folder\C#\Dapper-API\Services\obj\Debug\net5.0\Services.pdb

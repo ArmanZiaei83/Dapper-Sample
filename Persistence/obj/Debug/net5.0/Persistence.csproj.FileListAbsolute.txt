@@ -1,0 +1,15 @@
+A:\Arman Folder\C#\Dapper-API\Persistence\bin\Debug\net5.0\Persistence.deps.json
+A:\Arman Folder\C#\Dapper-API\Persistence\bin\Debug\net5.0\Persistence.dll
+A:\Arman Folder\C#\Dapper-API\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+A:\Arman Folder\C#\Dapper-API\Persistence\bin\Debug\net5.0\Persistence.pdb
+A:\Arman Folder\C#\Dapper-API\Persistence\bin\Debug\net5.0\Services.dll
+A:\Arman Folder\C#\Dapper-API\Persistence\bin\Debug\net5.0\Services.pdb
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.dll
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+A:\Arman Folder\C#\Dapper-API\Persistence\obj\Debug\net5.0\Persistence.pdb

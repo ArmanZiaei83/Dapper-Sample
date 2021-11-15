@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Dapper" Version="2.0.123" />
+        <PackageReference Include="FluentMigrator" Version="3.3.1" />
+        <PackageReference Include="FluentMigrator.Extensions.SqlServer" Version="3.3.1" />
+        <PackageReference Include="FluentMigrator.Runner" Version="3.3.1" />
+        <PackageReference Include="FluentMigrator.Runner.SqlServer" Version="3.3.1" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.12" />
+        <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    </ItemGroup>
+
+</Project>

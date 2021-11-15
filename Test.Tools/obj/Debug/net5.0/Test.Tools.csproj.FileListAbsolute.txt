@@ -1,0 +1,17 @@
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Test.Tools.deps.json
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Test.Tools.dll
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\ref\Test.Tools.dll
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Test.Tools.pdb
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Persistence.dll
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Services.dll
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Persistence.pdb
+A:\Arman Folder\C#\Dapper-API\Test.Tools\bin\Debug\net5.0\Services.pdb
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.csproj.AssemblyReference.cache
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.GeneratedMSBuildEditorConfig.editorconfig
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.AssemblyInfoInputs.cache
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.AssemblyInfo.cs
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.csproj.CoreCompileInputs.cache
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.csproj.CopyComplete
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.dll
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\ref\Test.Tools.dll
+A:\Arman Folder\C#\Dapper-API\Test.Tools\obj\Debug\net5.0\Test.Tools.pdb
